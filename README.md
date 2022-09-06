@@ -1,7 +1,7 @@
 # server-side
 1. 構成.   
 Spring boot で Rest APIとして作成されています。  
-Javaのバージョンは11をしようしています。
+Javaのバージョンは11を使用しています。
 1. DBアクセス.   
 Spring JPAを利用してPostgresqlへアクセスしています。
 1. 開発について.   
